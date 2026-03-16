@@ -1,10 +1,14 @@
-# Hi 👋 I'm Mohamed Esam
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6¢er=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohamed+Esam;CS+Student+%40+Cairo+University;Data+Science+Enthusiast;ML+%26+AI+Passionate)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedesam122&color=blue)
+
+</div>
 
 🎓 Computer Science Student at Cairo University
 📊 Data Science & Machine Learning Enthusiast
 🤖 Interested in Artificial Intelligence and Deep Learning
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedesam122&color=blue)
 
 ---
 
@@ -104,8 +108,8 @@ Currently focusing on:
 
 ---
 
-## 📫 Contact
+## 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokzoredg67@gmail.com) mokzoredg67@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esam-354638292) www.linkedin.com/in/mohamed-esam-354638292
+- 📧 **Email:** [mokzoredg67@gmail.com](mailto:mokzoredg67@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mohamed-esam-354638292](https://www.linkedin.com/in/mohamed-esam-354638292)
+- 🐙 **GitHub:** [github.com/Mohamedesam122](https://github.com/Mohamedesam122)
