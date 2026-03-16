@@ -1,16 +1,154 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Esam
 
-<!--
-**Mohamedesam122/Mohamedesam122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Cairo University
+📊 Data Science & Machine Learning Enthusiast
+🤖 Interested in Artificial Intelligence and Deep Learning
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=USERNAME\&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+I am a Computer Science student passionate about **Data Science, Machine Learning, and Artificial Intelligence**.
+
+I enjoy transforming raw data into meaningful insights and building predictive models that solve real-world problems.
+
+I have hands-on experience in **data analysis, machine learning, and visualization using Python** and modern data science tools.
+
+I am continuously learning and building projects to strengthen my practical experience in **AI technologies and real-world data applications**.
+
+I also have a strong foundation in:
+
+* Algorithms
+* Data Structures
+* Object-Oriented Programming
+* Mathematics
+* Statistics
+
+Currently focusing on:
+
+• Machine Learning
+• Deep Learning
+• Data Analysis
+• AI Applications
+
+---
+
+# 🚀 Skills & Tools
+
+## Programming Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</p>
+
+---
+
+## Data Science & Machine Learning
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+</p>
+
+Libraries & Tools
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* TensorFlow
+
+---
+
+## Data Visualization
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+</p>
+
+Tools
+
+* Power BI
+* Tableau
+* Plotly
+* Seaborn
+* Microsoft Excel
+
+---
+
+## Web & Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+</p>
+
+* SQL
+* Microsoft SQL Server
+* SSMS
+
+---
+
+## Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&theme=github)
+
+---
+
+# 📁 Projects
+
+## Data Analysis
+
+• Talabat Data Analysis
+• HR Data Analysis
+• Laptop Market Analysis
+• London House Data Analysis
+• Supermarket Sales Analysis
+• Car Prices Analysis
+
+## Machine Learning
+
+• Laptop Price Prediction
+• Car Price Prediction
+
+---
+
+# 📫 Contact
+
+📧 Email
+[mokzoredg67@gmail.com](mailto:mokzoredg67@gmail.com)
+
+🔗 LinkedIn
+[www.linkedin.com/in/mohamed-esam-354638292](http://www.linkedin.com/in/mohamed-esam-354638292)
