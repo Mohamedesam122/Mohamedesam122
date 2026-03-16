@@ -98,9 +98,8 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 </p>
 
-* SQL
+* MySQL
 * Microsoft SQL Server
-* SSMS
 
 ---
 
