@@ -106,5 +106,8 @@ Currently focusing on:
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/mokzoredg67@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokzoredg67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Mohamed%20Esam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esam-354638292)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokzoredg67@gmail.com)
+📧 mokzoredg67@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esam-354638292)
+🔗 www.linkedin.com/in/mohamed-esam-354638292
