@@ -4,7 +4,7 @@
 📊 Data Science & Machine Learning Enthusiast
 🤖 Interested in Artificial Intelligence and Deep Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedesam122&color=blue)
 
 ---
 
@@ -38,7 +38,6 @@ Currently focusing on:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -74,14 +73,14 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedesam122&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedesam122&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedesam122&theme=github)
 
 ---
 
@@ -107,5 +106,5 @@ Currently focusing on:
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokzoredg67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esam-354638292)
+[![Gmail](https://img.shields.io/badge/mokzoredg67@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokzoredg67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Mohamed%20Esam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esam-354638292)
