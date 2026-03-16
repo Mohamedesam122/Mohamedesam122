@@ -75,6 +75,7 @@ Tools
 
 * Power BI
 * Tableau
+* matplotlib
 * Plotly
 * Seaborn
 * Microsoft Excel
