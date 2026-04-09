@@ -77,11 +77,12 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedesam122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedesam122&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamedesam122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohamedesam122&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
