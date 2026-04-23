@@ -94,24 +94,6 @@ Currently focusing on:
 
 ---
 
-## 📁 Projects
-
-### 📊 Data Analysis
-| Project | Description |
-|--------|-------------|
-| 🍕 Talabat Data Analysis | Analyzing food delivery data to extract trends and insights |
-| 👥 HR Data Analysis | Exploring HR datasets to understand employee patterns |
-| 💻 Laptop Market Analysis | Market analysis of laptop prices and specs |
-| 🏠 London House Data Analysis | Housing price analysis in London |
-| 🛒 Supermarket Sales Analysis | Sales trends and customer behavior analysis |
-| 🚗 Car Prices Analysis | Analyzing car price datasets |
-
-### 🤖 Machine Learning
-| Project | Description |
-|--------|-------------|
-| 💻 Laptop Price Prediction | Predicting laptop prices using regression models |
-| 🚗 Car Price Prediction | Building ML models to predict car prices |
-| 🧮 PCA Algorithm from Scratch | Implemented Principal Component Analysis from scratch using NumPy — covers covariance matrix, eigendecomposition, and dimensionality reduction |
 
 ---
 
